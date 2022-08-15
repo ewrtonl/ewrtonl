@@ -7,6 +7,7 @@
 <a href = "mailto:ewerton.lu8659@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewrtonl&show_icons=true&theme=synthwave)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewrtonl&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies 💻
