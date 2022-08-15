@@ -1,8 +1,9 @@
 ## Hello, i'm Ewerton Luís. 😄
 ### 👨‍💻 - Web Developer
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-lu%C3%ADs280/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewrtonl/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-lu%C3%ADs280/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewrtonl&show_icons=true&theme=radical)
 
