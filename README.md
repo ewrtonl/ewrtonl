@@ -1,4 +1,4 @@
-## Hello, i'm Ewerton Luís. 😄
+## Hey there, i'm Ewerton Luís. 😄
 ### 👨‍💻 - Web Developer
 
 
