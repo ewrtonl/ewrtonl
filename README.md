@@ -16,4 +16,5 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewrtonl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
