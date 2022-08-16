@@ -1,5 +1,5 @@
 ## Hi there, i'm Ewerton Luís. 😄
-### 👨‍💻 - Web Developer
+### 👨‍💻 Web Developer
 
 <a href="https://www.instagram.com/ewrtonl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ewerton-lu%C3%ADs280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewrtonl&show_icons=true&theme=dracula)
 
-### Technologies 💻
+###💻 Technologies
 
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
