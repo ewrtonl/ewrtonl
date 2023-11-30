@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 # 💫 About Me:
 Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Information Systems and I'm focused on software development with JavaScript, TypeScript and React.<br><br>💡 I love to learn new programming technologies.
@@ -13,6 +13,3 @@ Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Informa
 ![](https://github-readme-stats.vercel.app/api?username=ewrtonl&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ewrtonl&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ewrtonl&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
