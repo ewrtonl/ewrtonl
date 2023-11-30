@@ -1,5 +1,7 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 # 💫 About Me:
-Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Information Systems and I'm focused on web development with JavaScript and React.<br><br>💡 I love to learn new programming technologies.
+Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Information Systems and I'm focused on software development with JavaScript, TypeScript and React.<br><br>💡 I love to learn new programming technologies.
 
 
 ## 🌐 Socials:
@@ -14,5 +16,3 @@ Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Informa
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
