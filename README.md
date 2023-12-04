@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="340px" max-width="340px" width="340px" align="right">
 
-# 💫 About Me:
+# 🧑‍💻​ About Me:
 Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Information Systems and I'm focused on software development with JavaScript, TypeScript and React.<br><br>💡 I love to learn new programming technologies.
 
 
