@@ -1,8 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="340px" max-width="340px" width="340px" align="right">
-
-# 🧑‍💻​ About Me:
-Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Information Systems and I'm focused on software development with JavaScript, TypeScript and React.<br><br>💡 I love to learn new programming technologies.
-
+# 💻​​ About Me:
+Hi there, i'm Ewerton Luís.<br><br>🌱 I'm currently studying Computer Information Systems and I'm focused on software development with JavaScript, TypeScript and React.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ewertonluis28) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ewrtonl)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/472092988407808000) 
